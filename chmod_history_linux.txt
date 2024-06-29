@@ -1,0 +1,10 @@
+   0 vi /tmp/file.txt
+   1 df -h | head -n 3 > /tmp/file.txt
+   2 chmod g+w /tmp/file.txt
+   3 chmod u-r /tmp/file.txt
+   4 ls -l /tmp/file.txt
+   5 ls -la
+   6 history
+   7 history > hostory.txt
+   8 export_file history.txt
+   9 history > history.txt
